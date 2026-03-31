@@ -55,4 +55,4 @@ Il file Excel sorgente (`SANREMO_1951_2023.xlsx`) contiene più fogli:
 
 ## 👤 Autore
 
-Progetto svolto nell'ambito del corso **Data Analyst**
+Maria Giordano
